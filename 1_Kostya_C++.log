@@ -1,0 +1,4 @@
+﻿  1_Kostya_C++.cpp
+  1_Kostya_C++.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  1_Kostya_C++.vcxproj -> C:\Users\Анна\Documents\Visual Studio 2015\Projects\1_Kostya_C++\Debug\1_Kostya_C++.exe
+  1_Kostya_C++.vcxproj -> C:\Users\Анна\Documents\Visual Studio 2015\Projects\1_Kostya_C++\Debug\1_Kostya_C++.pdb (Partial PDB)
